@@ -1,0 +1,10 @@
+D:\GitHub\Vectors\Vectors\Vectors\bin\Debug\Vectors.exe.config
+D:\GitHub\Vectors\Vectors\Vectors\bin\Debug\Vectors.exe
+D:\GitHub\Vectors\Vectors\Vectors\bin\Debug\Vectors.pdb
+D:\GitHub\Vectors\Vectors\Vectors\obj\Debug\Vectors.csprojAssemblyReference.cache
+D:\GitHub\Vectors\Vectors\Vectors\obj\Debug\Vectors.Form1.resources
+D:\GitHub\Vectors\Vectors\Vectors\obj\Debug\Vectors.Properties.Resources.resources
+D:\GitHub\Vectors\Vectors\Vectors\obj\Debug\Vectors.csproj.GenerateResource.cache
+D:\GitHub\Vectors\Vectors\Vectors\obj\Debug\Vectors.csproj.CoreCompileInputs.cache
+D:\GitHub\Vectors\Vectors\Vectors\obj\Debug\Vectors.exe
+D:\GitHub\Vectors\Vectors\Vectors\obj\Debug\Vectors.pdb

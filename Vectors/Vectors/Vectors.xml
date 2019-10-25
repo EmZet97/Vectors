@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Vectors>
+  <Vector2D>
+    <x>0</x>
+    <y>0,5</y>
+  </Vector2D>
+  <Vector2D>
+    <x>5</x>
+    <y>8,5</y>
+  </Vector2D>
+  <Vector2D>
+    <x>8</x>
+    <y>1,5</y>
+  </Vector2D>
+  <Vector2D>
+    <x>12,75</x>
+    <y>3,5</y>
+  </Vector2D>
+  <Vector2D>
+    <x>5</x>
+    <y>5,5</y>
+  </Vector2D>
+
+  <Vector3D>
+    <x>0</x>
+    <y>0,5</y>
+    <z>0,3</z>
+  </Vector3D>
+  <Vector3D>
+    <x>0</x>
+    <y>0,77</y>
+    <z>0,94</z>
+  </Vector3D>
+  <Vector3D>
+    <x>0,09</x>
+    <y>0,52</y>
+    <z>0,123</z>
+  </Vector3D>
+  
+</Vectors>
