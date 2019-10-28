@@ -91,7 +91,7 @@
             this.Controls.Add(this.Vector2ComboBox);
             this.Controls.Add(this.VectorsComboBox);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Vectors";
             this.ResumeLayout(false);
             this.PerformLayout();
 
